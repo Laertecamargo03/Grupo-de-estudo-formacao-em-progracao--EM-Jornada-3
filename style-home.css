@@ -1,0 +1,32 @@
+body {
+    background-color: silver;
+}
+
+.titulo-principal {
+    padding-left: 20px;
+}
+
+.lista-conteúdo
+{ background-color: aqua;}
+
+.titulo-centralizado {
+    text-align: center
+}
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+    margin-right: 15%;
+}
+.imagembeneficios {
+    width: 30%;
+}
+
+.conclusão {background-color: brown;
+    text-align: center;
+    }
+
+h1 {
+    color: blue;
+    text-align: center;
+}
